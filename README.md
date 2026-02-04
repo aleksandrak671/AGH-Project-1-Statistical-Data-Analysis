@@ -1,4 +1,4 @@
-# Statistical Data Analysis – AGH Project 1  
+# AGH Project 1: Statistical Data Analysis   
 
 ## Project topic  
 **Assessment of the socio-economic development level of countries around the world**  
