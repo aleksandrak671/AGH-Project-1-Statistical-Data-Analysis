@@ -1,6 +1,5 @@
 # Statistical Data Analysis   
 
-## Project topic  
 **Assessment of the socio-economic development level of countries around the world**  
 
 The goal of this project was to compare countries in terms of selected socio-economic indicators using two multivariate statistical methods: **linear ordering** and **cluster analysis**.  
